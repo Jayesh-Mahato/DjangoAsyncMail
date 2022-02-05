@@ -1,0 +1,20 @@
+# Database
+db.sqlite3
+
+# OS level files
+.DS_Store
+
+# Migration Files
+src/DjangoAsyncEmailProject/migrations/
+
+#Libraries
+lib/
+
+#Local Files
+src/DjangoAsyncEmailProject/settings/local.py
+
+#Packaging
+DjangoAsyncMail-Packaging/dist/
+DjangoAsyncMail-Packaging/DjangoAsyncMail/
+DjangoAsyncMail-Packaging/DjangoAsyncMail.egg-info/
+
