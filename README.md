@@ -5,6 +5,13 @@ DjangoAsyncMail is a Django app to send email asynchronously. This is a light-we
 
 Detailed documentation is in [this post](https://jayeshmahato.com/blog/technology/djangoasyncmail).
 
+# Installation
+
+In virtual environment, install by using pip as below:
+    ```
+    pip install DjangoAsyncMail
+    ```
+
 ## Quick start
 
 1. Add "DjangoAsyncMail" to your INSTALLED_APPS setting like this:
