@@ -9,9 +9,7 @@ Detailed documentation is in [this post](https://jayeshmahato.com/blog/technolog
 
 In virtual environment, install by using pip as below:
 
-    ```
     pip install DjangoAsyncMail
-    ```
 
 ## Quick start
 
