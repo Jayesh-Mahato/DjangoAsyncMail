@@ -21,3 +21,6 @@ DjangoAsyncMail-Packaging/DjangoAsyncMail.egg-info/
 #Code Editor Files
 DjangoAsyncMail.sublime-project
 DjangoAsyncMail.sublime-workspace
+
+#Python ByteCodes / Interpreted files
+**/__pycache__
